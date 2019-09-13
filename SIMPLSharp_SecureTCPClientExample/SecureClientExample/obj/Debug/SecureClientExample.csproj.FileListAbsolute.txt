@@ -1,0 +1,18 @@
+C:\Docs-Logos\Code Examples\SIMPL# Pro Examples\SecureTCPClientExample\SecureClientExample\bin\Debug\SecureClientExample.dll
+C:\Docs-Logos\Code Examples\SIMPL# Pro Examples\SecureTCPClientExample\SecureClientExample\bin\Debug\SecureClientExample.pdb
+C:\Docs-Logos\Code Examples\SIMPL# Pro Examples\SecureTCPClientExample\SecureClientExample\bin\Debug\Crestron.SimplSharpPro.DeviceSupport.dll
+C:\Docs-Logos\Code Examples\SIMPL# Pro Examples\SecureTCPClientExample\SecureClientExample\bin\Debug\SimplSharpCustomAttributesInterface.dll
+C:\Docs-Logos\Code Examples\SIMPL# Pro Examples\SecureTCPClientExample\SecureClientExample\bin\Debug\SimplSharpHelperInterface.dll
+C:\Docs-Logos\Code Examples\SIMPL# Pro Examples\SecureTCPClientExample\SecureClientExample\bin\Debug\SimplSharpPro.exe
+C:\Docs-Logos\Code Examples\SIMPL# Pro Examples\SecureTCPClientExample\SecureClientExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Docs-Logos\Code Examples\SIMPL# Pro Examples\SecureTCPClientExample\SecureClientExample\obj\Debug\SecureClientExample.dll
+C:\Docs-Logos\Code Examples\SIMPL# Pro Examples\SecureTCPClientExample\SecureClientExample\obj\Debug\SecureClientExample.pdb
+C:\Docs-Logos\Code Examples\SIMPL# Pro Examples\SecureTCPClientExample and SecureTCPServerExample\SecureTCPClientExample\SecureClientExample\bin\Debug\SecureClientExample.dll
+C:\Docs-Logos\Code Examples\SIMPL# Pro Examples\SecureTCPClientExample and SecureTCPServerExample\SecureTCPClientExample\SecureClientExample\bin\Debug\SecureClientExample.pdb
+C:\Docs-Logos\Code Examples\SIMPL# Pro Examples\SecureTCPClientExample and SecureTCPServerExample\SecureTCPClientExample\SecureClientExample\bin\Debug\Crestron.SimplSharpPro.DeviceSupport.dll
+C:\Docs-Logos\Code Examples\SIMPL# Pro Examples\SecureTCPClientExample and SecureTCPServerExample\SecureTCPClientExample\SecureClientExample\bin\Debug\SimplSharpCustomAttributesInterface.dll
+C:\Docs-Logos\Code Examples\SIMPL# Pro Examples\SecureTCPClientExample and SecureTCPServerExample\SecureTCPClientExample\SecureClientExample\bin\Debug\SimplSharpHelperInterface.dll
+C:\Docs-Logos\Code Examples\SIMPL# Pro Examples\SecureTCPClientExample and SecureTCPServerExample\SecureTCPClientExample\SecureClientExample\bin\Debug\SimplSharpPro.exe
+C:\Docs-Logos\Code Examples\SIMPL# Pro Examples\SecureTCPClientExample and SecureTCPServerExample\SecureTCPClientExample\SecureClientExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Docs-Logos\Code Examples\SIMPL# Pro Examples\SecureTCPClientExample and SecureTCPServerExample\SecureTCPClientExample\SecureClientExample\obj\Debug\SecureClientExample.dll
+C:\Docs-Logos\Code Examples\SIMPL# Pro Examples\SecureTCPClientExample and SecureTCPServerExample\SecureTCPClientExample\SecureClientExample\obj\Debug\SecureClientExample.pdb
